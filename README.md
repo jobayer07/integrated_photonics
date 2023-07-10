@@ -1,2 +1,2 @@
-# integrated_photonics
+# integrated_photonics_test
 Integrated photonics design, optimization, layout, and test automation
