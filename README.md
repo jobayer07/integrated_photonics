@@ -8,5 +8,5 @@ Contains Python scripts for test automation, graphical user inteface (GUI) for t
 5. photonics_test_gui_keithley_laser_integrated.py is for Graphical User Interface (GUI) for optical and electrical testing of silicon photonics
 
 ## Data Analysis Codes:
-1. process_monitoring_ring_resonator.py  reports a ring resonnator characteristics (wavelength dependent) across the wafer
-2. process_monitoring_ring_resonator_statistics.py reports a ring resonnator characteristics (at a single desired wavelength) across the wafer
+- [ ] process_monitoring_ring_resonator.py  reports a ring resonnator characteristics (wavelength dependent) across the wafer
+- [ ] process_monitoring_ring_resonator_statistics.py reports a ring resonnator characteristics (at a single desired wavelength) across the wafer
